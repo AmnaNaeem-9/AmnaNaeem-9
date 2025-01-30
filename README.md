@@ -1,7 +1,10 @@
+
+
+<p align="center">
+  <img src="https://i.gifer.com/JXA0.gif" alt="Tech GIF" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Amna Naeem</h1>
 <h3 align="center">💻 IT Student | 📚 Passionate about learning new concepts | 🚀 Exploring how technology shapes the world</h3>
-
-
 <p>🎓 Pursuing my IT degree</p>
 <p>🌐 Currently learning Web Development</p>
 <p>🤖 Exploring AI tools and their potential</p>

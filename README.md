@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Amna Naeem
+# Hi, I'm Amna Naeem 👋 — I Build Real-Time, Full-Stack Products with the MERN Stack
 
-### Full Stack MERN Developer • AI Enthusiast • Information Technology Student
+### 🚀 Full Stack MERN Developer | 🤖 AI/LLM Enthusiast | 🎓 IT Student turning ideas into scalable software
 
 <p>
 <a href="https://www.linkedin.com/in/amnanaeem65">
@@ -30,11 +30,13 @@
 
 # 👩‍💻 About Me
 
-- 🎓 BS Information Technology Student
-- 💻 Passionate Full Stack MERN Developer
-- 🤖 Interested in Artificial Intelligence & LLMs
-- 🌱 Currently learning Docker, Redis, System Design and Cloud
-- 🚀 Building scalable web applications and continuously improving my development skills
+- 🎓 BS Information Technology student with a strong foundation in data structures, algorithms, and OOP
+- 💻 Full Stack MERN Developer — currently building **devinfantary-connect**, a real-time chat app powered by Node.js, Express, Socket.IO, MongoDB, and Redis (live chat engine, typing indicators, and online presence tracking already shipped)
+- 🧠 Sharpening problem-solving fundamentals through consistent LeetCode practice
+- 🤖 Exploring Artificial Intelligence & LLMs and how they fit into modern full-stack products
+- 🌱 Currently deepening my skills in Docker, Redis, System Design, and Cloud
+- 🎯 Focused on writing clean, scalable code and shipping products recruiters actually want to see
+- 📫 Open to Full Stack / Backend development opportunities — let's connect!
 
 ---
 
@@ -88,12 +90,15 @@
 
 ---
 
-# 📈 Contribution Graph
+# 📊 GitHub Stats
 
 <p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmnaNaeem-9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AmnaNaeem-9&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmnaNaeem-9&theme=github-compact&hide_border=true"/>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmnaNaeem-9&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -108,6 +113,6 @@
 
 <div align="center">
 
-### Thanks for visiting my profile!
+### Thanks for visiting my profile — let's build something great together! 🚀
 
 </div>

@@ -17,7 +17,7 @@ Building practical software, solving problems, and exploring the intersection of
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="mailto:naeemamna162@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -31,32 +31,27 @@ Building practical software, solving problems, and exploring the intersection of
 
 I am a BS Information Technology student interested in full-stack development, backend engineering, and AI/ML.
 
-* Building web applications with JavaScript, TypeScript, React, Node.js, and Express.js
-* Working with SQL and NoSQL databases
-* Developing real-time applications using Socket.IO and Redis
-* Strengthening problem-solving and DSA through LeetCode
-* Exploring practical applications of AI/ML
-* Interested in clean architecture, scalable systems, and backend engineering
+- Building web applications with JavaScript, TypeScript, React, Node.js, and Express.js
+- Working with SQL and NoSQL databases
+- Developing real-time applications using Socket.IO and Redis
+- Strengthening problem-solving and DSA through LeetCode
+- Exploring practical applications of AI/ML
+- Interested in clean architecture, scalable systems, and backend engineering
 
 ---
 
-## What I'm Building
+## Development Focus
 
-### DevInfantry Connect
+My work focuses on building practical applications while strengthening the fundamentals behind them.
 
-A real-time communication application focused on live messaging and modern backend architecture.
-
-**Technology:** Node.js · Express.js · Socket.IO · MongoDB · Redis
-
-**Key functionality:**
-
-* Real-time messaging
-* Typing indicators
-* Online presence tracking
-* Socket-based communication
-* Backend API development
-* MongoDB data management
-* Redis integration
+| Area | Focus |
+|---|---|
+| Full-Stack Development | Modern web applications and REST APIs |
+| Backend Engineering | APIs, authentication, and real-time systems |
+| Databases | SQL, NoSQL, and data modeling |
+| System Architecture | Scalable and maintainable applications |
+| Artificial Intelligence | Machine Learning and AI-powered applications |
+| Problem Solving | Data Structures and Algorithms |
 
 ---
 
@@ -110,69 +105,9 @@ A real-time communication application focused on live messaging and modern backe
 
 ---
 
-## Featured Projects
-
-### DevInfantry Connect
-
-Real-time communication platform focused on live user interaction and backend architecture.
-
-**Technology:** Node.js · Express.js · Socket.IO · MongoDB · Redis
-
----
-
-### Campus Event & Club Management System
-
-Role-based campus management application designed for students, club organizers, and administrators.
-
-**Technology:** Node.js · Express.js · PostgreSQL · JWT · EJS
-
-**Key features:**
-
-* JWT authentication
-* Role-based authorization
-* Club management
-* Event management
-* Join and leave events
-* Administrative approvals
-* User blocking and management
-
----
-
-### AI Image Generation Application
-
-Full-stack application exploring AI-powered image generation and API integration.
-
-**Technology:** React · TypeScript · Node.js · Express.js · AI APIs
-
----
-
-## Areas of Interest
-
-Rather than listing what I am "currently learning", these are the areas I enjoy exploring:
-
-**Software Development**
-
-Full-Stack Development · Backend Engineering · REST APIs · Real-Time Applications
-
-**Systems**
-
-Database Design · Caching · Authentication · System Architecture · Scalable Applications
-
-**Artificial Intelligence**
-
-Machine Learning · Large Language Models · Speech Processing · AI-Powered Applications
-
-**Problem Solving**
-
-Data Structures · Algorithms · Competitive Programming · LeetCode
-
----
-
 ## Problem Solving
 
-I regularly practice data structures and algorithms to strengthen my problem-solving and programming fundamentals.
-
-**Focus areas:**
+I regularly practice data structures and algorithms to strengthen my programming fundamentals and problem-solving ability.
 
 `Arrays` · `Strings` · `Hash Maps` · `Linked Lists` · `Stacks` · `Queues` · `Trees` · `Recursion` · `Algorithms`
 
@@ -184,19 +119,39 @@ I regularly practice data structures and algorithms to strengthen my problem-sol
 
 ---
 
+## AI / ML
+
+I am interested in applying AI/ML techniques to practical software systems.
+
+Areas of interest include:
+
+- Machine Learning
+- Neural Networks
+- Large Language Models
+- Speech-to-Text
+- AI-powered applications
+- Model deployment
+- AI integration with full-stack systems
+
+---
+
 ## GitHub Activity
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=AmnaNaeem-9&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmnaNaeem-9&theme=tokyonight"
+    alt="GitHub Profile Summary"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmnaNaeem-9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmnaNaeem-9&theme=tokyonight"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmnaNaeem-9&theme=tokyonight"
+    alt="Repositories Per Language"
   />
 </p>
 
@@ -215,7 +170,7 @@ I regularly practice data structures and algorithms to strengthen my problem-sol
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="mailto:naeemamna162@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 

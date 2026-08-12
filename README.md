@@ -17,7 +17,7 @@ Building practical software, solving problems, and exploring the intersection of
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="mailto:naeemamna162@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -141,6 +141,7 @@ Areas of interest include:
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmnaNaeem-9&theme=tokyonight"
     alt="GitHub Profile Summary"
+    width="100%"
   />
 </p>
 
@@ -148,10 +149,12 @@ Areas of interest include:
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmnaNaeem-9&theme=tokyonight"
     alt="GitHub Statistics"
+    width="49%"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmnaNaeem-9&theme=tokyonight"
     alt="Repositories Per Language"
+    width="49%"
   />
 </p>
 

@@ -4,16 +4,21 @@
 
 ### Full-Stack Developer · AI/ML Enthusiast · IT Student
 
-Building practical software, strengthening problem-solving skills, and exploring the intersection of AI and modern application development.
+Building practical software, solving problems, and exploring the intersection of AI and modern application development.
 
 <p>
-  <a href="https://github.com/AmnaNaeem-9">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/amnanaeem65">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://leetcode.com/u/Amna_Naeem/">LeetCode</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:naeemamna162@gmail.com">Email</a>
+  <a href="https://github.com/AmnaNaeem-9">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amnanaeem65">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Amna_Naeem/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:naeemamna162@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=AmnaNaeem-9&style=flat-square&color=0e75b6" alt="Profile Views"/>
@@ -26,13 +31,12 @@ Building practical software, strengthening problem-solving skills, and exploring
 
 I am a BS Information Technology student interested in full-stack development, backend engineering, and AI/ML.
 
-* Building applications with JavaScript, TypeScript, React, Node.js, and Express.js
-* Working with both SQL and NoSQL databases
+* Building web applications with JavaScript, TypeScript, React, Node.js, and Express.js
+* Working with SQL and NoSQL databases
 * Developing real-time applications using Socket.IO and Redis
 * Strengthening problem-solving and DSA through LeetCode
-* Exploring AI/ML and its integration into modern software products
-* Currently deepening my knowledge of Docker, system design, Redis, and cloud technologies
-* Interested in building clean, maintainable, and scalable software
+* Exploring practical applications of AI/ML
+* Interested in clean architecture, scalable systems, and backend engineering
 
 ---
 
@@ -44,7 +48,7 @@ A real-time communication application focused on live messaging and modern backe
 
 **Technology:** Node.js · Express.js · Socket.IO · MongoDB · Redis
 
-**Current functionality:**
+**Key functionality:**
 
 * Real-time messaging
 * Typing indicators
@@ -108,9 +112,17 @@ A real-time communication application focused on live messaging and modern backe
 
 ## Featured Projects
 
+### DevInfantry Connect
+
+Real-time communication platform focused on live user interaction and backend architecture.
+
+**Technology:** Node.js · Express.js · Socket.IO · MongoDB · Redis
+
+---
+
 ### Campus Event & Club Management System
 
-A role-based campus management application for students, club organizers, and administrators.
+Role-based campus management application designed for students, club organizers, and administrators.
 
 **Technology:** Node.js · Express.js · PostgreSQL · JWT · EJS
 
@@ -128,25 +140,39 @@ A role-based campus management application for students, club organizers, and ad
 
 ### AI Image Generation Application
 
-A full-stack application exploring AI-powered image generation and API integration.
+Full-stack application exploring AI-powered image generation and API integration.
 
 **Technology:** React · TypeScript · Node.js · Express.js · AI APIs
 
 ---
 
-### DevInfantry Connect
+## Areas of Interest
 
-A real-time communication platform focused on live user interaction and backend architecture.
+Rather than listing what I am "currently learning", these are the areas I enjoy exploring:
 
-**Technology:** Node.js · Express.js · Socket.IO · MongoDB · Redis
+**Software Development**
+
+Full-Stack Development · Backend Engineering · REST APIs · Real-Time Applications
+
+**Systems**
+
+Database Design · Caching · Authentication · System Architecture · Scalable Applications
+
+**Artificial Intelligence**
+
+Machine Learning · Large Language Models · Speech Processing · AI-Powered Applications
+
+**Problem Solving**
+
+Data Structures · Algorithms · Competitive Programming · LeetCode
 
 ---
 
 ## Problem Solving
 
-I am continuously strengthening my problem-solving skills through data structures, algorithms, and LeetCode practice.
+I regularly practice data structures and algorithms to strengthen my problem-solving and programming fundamentals.
 
-**Current focus:**
+**Focus areas:**
 
 `Arrays` · `Strings` · `Hash Maps` · `Linked Lists` · `Stacks` · `Queues` · `Trees` · `Recursion` · `Algorithms`
 
@@ -155,35 +181,6 @@ I am continuously strengthening my problem-solving skills through data structure
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
-
----
-
-## AI / ML
-
-I am exploring AI/ML with an emphasis on practical applications and integration with software systems.
-
-**Areas of interest:**
-
-* Machine Learning
-* Neural Networks
-* Large Language Models
-* Speech-to-Text
-* AI-powered applications
-* Model deployment
-* AI integration with full-stack systems
-
----
-
-## Currently Learning
-
-| Area              | Focus                                     |
-| ----------------- | ----------------------------------------- |
-| Backend           | Node.js · Express.js · REST APIs          |
-| Real-Time Systems | Socket.IO · Redis                         |
-| Infrastructure    | Docker · Deployment                       |
-| Architecture      | System Design · Scalable Applications     |
-| AI/ML             | Machine Learning · LLMs · AI Applications |
-| Problem Solving   | DSA · Algorithms · LeetCode               |
 
 ---
 
@@ -208,17 +205,22 @@ I am exploring AI/ML with an emphasis on practical applications and integration 
 ## Connect
 
 <p align="center">
-  <a href="https://github.com/AmnaNaeem-9">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/amnanaeem65">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://leetcode.com/u/Amna_Naeem/">LeetCode</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:naeemamna162@gmail.com">Email</a>
+  <a href="https://github.com/AmnaNaeem-9">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amnanaeem65">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Amna_Naeem/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:naeemamna162@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <div align="center">
 
-### Build. Learn. Solve. Improve.
+### Build · Learn · Solve · Improve
 
 </div>
